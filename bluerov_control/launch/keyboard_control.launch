@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg="bluerov_control" name="keyboard_controller" type="keyboard_controller.py" output="screen" />
+
+</launch>
