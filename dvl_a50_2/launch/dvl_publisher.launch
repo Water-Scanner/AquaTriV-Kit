@@ -1,0 +1,9 @@
+<!-- dvl_ros_node/launch/dvl_publisher.launch -->
+<launch>
+    <node name="dvl_publisher" pkg="dvl_a50" type="dvl_publisher.py" output="screen">
+        <!-- 根据需要修改串口端口和波特率 -->
+        <param name="port" value="/dev/ttyACM0" />
+        <param name="baud_rate" value="115200" />
+        <param name="debug" value="false" />
+    </node>
+</launch>
