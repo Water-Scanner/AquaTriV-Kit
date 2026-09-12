@@ -115,7 +115,7 @@ We provide a complete DevKit for:
 - Cross-scene generalization and domain adaptation
 - Neural rendering and 3D Gaussian Splatting
 - Multi-modal underwater perception and scene understanding
-- 。。。
+- ...
 
 ---
 
