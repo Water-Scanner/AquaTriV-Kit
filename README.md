@@ -99,12 +99,23 @@ We provide a complete DevKit for:
 
 ## 🧪 6. Supported Research Tasks
 
-- Underwater SLAM  
-- Multi-sensor fusion  
-- Dense reconstruction  
-- Event-based vision  
-- Neural rendering (3D Gaussian Splatting)  
-- Underwater perception  
+- Underwater SLAM and long-term localization
+- Visual and event-based odometry
+- Velocity and high-rate motion estimation
+- Multi-sensor fusion and adaptive state estimation
+- Dense depth estimation and 3D reconstruction
+- Active-laser and stereo-based mapping
+- Event-based perception under degraded illumination
+- Event-frame alignment and cross-modal representation learning
+- Optical-flow estimation and motion deblurring
+- Relocalization and loop-closure detection
+- Sensor degradation and failure detection
+- Sensor-modality selection and robustness analysis
+- Underwater image restoration and enhancement
+- Cross-scene generalization and domain adaptation
+- Neural rendering and 3D Gaussian Splatting
+- Multi-modal underwater perception and scene understanding
+- 。。。
 
 ---
 
